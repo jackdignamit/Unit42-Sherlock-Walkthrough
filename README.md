@@ -24,7 +24,6 @@ If you're new to *Sysmon*, understanding common Event IDs will greatly assist wi
 - Event ID 5: Process Termination
 - Event ID 11: File Created
 - Event ID 22: DNS Query
-
 ```
 
 If you find this walkthrough helpful, please feel free to drop a follow. Thank you for your consideration, now let's do this investigation!
