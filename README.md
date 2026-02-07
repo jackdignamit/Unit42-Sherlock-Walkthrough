@@ -1,5 +1,5 @@
 
-# Unit42 Sherlock | HackTheBox Walkthrough
+# Unit42 Sherlock | Hack The Box Walkthrough
 > ## Using Windows Event Viewer and Sysmon Logs to Analyze Malware
 
 ### [>>GOOGLE DOC VERSION <<](https://docs.google.com/document/d/1FvhBaatLLaSpL6zWzIc4zT9lOVyyMTsgPWjNABsdZK4/edit?usp=sharing) (Originally posted on Medium.com)
